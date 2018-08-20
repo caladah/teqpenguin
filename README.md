@@ -1,2 +1,2 @@
-# teqpenguin
+# TeqPenguin
 Being Awesome and Uploading Code!
